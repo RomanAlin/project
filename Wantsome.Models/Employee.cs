@@ -18,5 +18,6 @@ namespace Wantsome.Models
 
         [DisplayName("Details")]
         public string Details { get; set; }
+
     }
 }
